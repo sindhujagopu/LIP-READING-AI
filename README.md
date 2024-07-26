@@ -25,7 +25,7 @@ Welcome to the LIP READING-AI repository! This project focuses on developing an 
 Clone the repository and install the required dependencies:
 
 In bash:
-* Copy code -> git clone https://github.com/Mabhusubhani001/LIP-READING-AI.git
+* Copy code -> git clone https://github.com/sindhujagopu/LIP-READING-AI.git
 * cd LIP-READING-AI
 * pip install -r requirements.txt
 
